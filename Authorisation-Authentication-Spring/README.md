@@ -1,8 +1,5 @@
 # Authentication-AuthorisationAPI
 
-### Purpose of this project
-I wanted to understand the process of Authentication & Authorisation.
-
 ### Breakdown
 (I am presuming you have some familarity with creating APIs so certain packages will not be talked about & this is my understanding of the code, if you see a mistake don't hesitate to contact me!) <br/>
 <br/>
@@ -21,7 +18,3 @@ I will not explain the fitlers as they are accustomed to my needs.
 - passwords are encrypted
 - if you try to access a endpoint that you don't have the correct permissions for you'll receive a 403 status code.
 - React UI code - https://github.com/ChaudharySamirZafar/ReactAuthenticationApplication
-
-### Contact me
-email : Chaudharysamirzafar@gmail.com
-linkedin : https://www.linkedin.com/in/samir-zafar-6b59111bb/
