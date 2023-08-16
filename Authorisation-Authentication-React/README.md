@@ -3,11 +3,9 @@
 #### Example:
 
 ##### Breakdown of the application
-- User registers and created a account
+- User registers and creats a account
 - User logs in and receives a access token
-- User is granted access to certain pages only if they have a valid access token
-- This Application uses an API Template that I have created in Spring boot, you can access that here : https://github.com/ChaudharySamirZafar/Authentication-AuthorisationAPI
-
+- User is granted access to specific endpoints depending on their role
 
 ## Project Status
 This project is not in active developtment.
