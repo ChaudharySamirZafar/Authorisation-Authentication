@@ -1,0 +1,4 @@
+{
+    "SignInURL" : "http://localhost:8080/api/login?username=1&password=2",
+    "RegisterURL" : "http://localhost:8080/api/user/register"
+}
