@@ -12,4 +12,4 @@ I wanted to understand the process of Authentication & Authorisation.
 ### Licence
 This project is licensed under the MIT License
 ##
-Feel free to contribute, provide feedback, and make use of ExplainMyCode to enhance your understanding of code snippets. Happy coding and explaining!
+Feel free to contribute, provide feedback, and make use of this Project to enhance your understanding of spring-security & react.
